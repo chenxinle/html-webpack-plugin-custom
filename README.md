@@ -11,7 +11,7 @@ USAGE
 
   var webpackConfig = {   
     plugins: [   
-      new MyPlugin({   
+      new htmlWebpackPluginCustom({   
         js: [   
           // put all the js you want insert into the html, each array item is the script src   
           // example: build_config.cdnHost + 'font-awesome/js/font-awesome.js'   
