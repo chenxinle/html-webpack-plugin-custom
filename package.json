@@ -1,0 +1,90 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@chenxinle/html-webpack-plugin-custom",
+        "scope": "@chenxinle",
+        "escapedName": "@chenxinle%2fhtml-webpack-plugin-custom",
+        "name": "@chenxinle/html-webpack-plugin-custom",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/chenxinle/merchant-pc-client"
+    ]
+  ],
+  "_from": "@chenxinle/html-webpack-plugin-custom@latest",
+  "_id": "@chenxinle/html-webpack-plugin-custom@1.0.0",
+  "_inCache": true,
+  "_location": "/@chenxinle/html-webpack-plugin-custom",
+  "_nodeVersion": "7.2.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/html-webpack-plugin-custom-1.0.0.tgz_1489133501683_0.9919875056948513"
+  },
+  "_npmUser": {
+    "name": "chenxinle",
+    "email": "chenxinlewadee@126.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@chenxinle/html-webpack-plugin-custom",
+    "scope": "@chenxinle",
+    "escapedName": "@chenxinle%2fhtml-webpack-plugin-custom",
+    "name": "@chenxinle/html-webpack-plugin-custom",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@chenxinle/html-webpack-plugin-custom/-/html-webpack-plugin-custom-1.0.0.tgz",
+  "_shasum": "259a829168d5cf5c7d3e1bfc0640a361a9eac644",
+  "_shrinkwrap": null,
+  "_spec": "@chenxinle/html-webpack-plugin-custom",
+  "_where": "/Users/chenxinle/merchant-pc-client",
+  "author": {
+    "name": "chenxinle",
+    "email": "chenxinle@126.com"
+  },
+  "bugs": {
+    "url": "https://github.com/chenxinle/html-webpack-plugin-custom/issues"
+  },
+  "dependencies": {},
+  "description": "a webpack plugin to insert custom js and css to html",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "259a829168d5cf5c7d3e1bfc0640a361a9eac644",
+    "tarball": "https://registry.npmjs.org/@chenxinle/html-webpack-plugin-custom/-/html-webpack-plugin-custom-1.0.0.tgz"
+  },
+  "homepage": "https://github.com/chenxinle/html-webpack-plugin-custom#readme",
+  "keywords": [
+    "webpack",
+    "custom",
+    "plugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "chenxinle",
+      "email": "chenxinlewadee@126.com"
+    }
+  ],
+  "name": "@chenxinle/html-webpack-plugin-custom",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenxinle/html-webpack-plugin-custom.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
+
